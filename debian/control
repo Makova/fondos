@@ -1,0 +1,12 @@
+Source: unicono
+Section: x11
+Priority: optional
+Maintainer: Lorenzo Carbonell Cerezo <lorenzo.carbonell.cerezo@gmail.com>
+Build-Depends: debhelper (>= 10)
+Standards-Version: 4.0.0
+Homepage: https://www.atareao.es/
+
+Package: unicono
+Architecture: all
+Description: Primer ejemplo de empaquetamiento
+ Esto es un ejemplo de como crear un paquete
