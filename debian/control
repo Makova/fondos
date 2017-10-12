@@ -2,11 +2,11 @@ Source: fondos
 Section: x11
 Priority: optional
 Maintainer: Manu Cogolludo <makova65@gmail.com>
-Build-Depends: debhelper (>= 10)
+Build-Depends: debhelper (>= 10), python3, python3-distutils-extra
 Standards-Version: 4.0.0
-Homepage: https://www.makova.blogspot.com/
+Homepage: https://www.makova65.blogspot.com/
 
 Package: fondos
 Architecture: all
-Description: Creacion de un PPA para fondos
- Primer PPA sobre fondos de pantalla para Debian testing
+Description: PPA para fondos de pantalla
+ Primer PPA para fondos de pantalla en Debian testing
