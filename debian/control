@@ -1,12 +1,12 @@
-Source: unicono
+Source: fondos
 Section: x11
 Priority: optional
-Maintainer: Lorenzo Carbonell Cerezo <lorenzo.carbonell.cerezo@gmail.com>
+Maintainer: Manu Cogolludo <makova65@gmail.com>
 Build-Depends: debhelper (>= 10)
 Standards-Version: 4.0.0
-Homepage: https://www.atareao.es/
+Homepage: https://www.makova.blogspot.com/
 
-Package: unicono
+Package: fondos
 Architecture: all
-Description: Primer ejemplo de empaquetamiento
- Esto es un ejemplo de como crear un paquete
+Description: Creacion de un PPA para fondos
+ Primer PPA sobre fondos de pantalla para Debian testing
